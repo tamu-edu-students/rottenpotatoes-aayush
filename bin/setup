@@ -1,4 +1,4 @@
-#!/home/aayush/.rbenv/versions/3.0.0/bin/ruby
+#!/usr/bin/env ruby
 require "fileutils"
 
 # path to your application root.
