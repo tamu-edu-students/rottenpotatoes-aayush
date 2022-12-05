@@ -1,1 +1,1 @@
-https://aayush-gautam-rottenpotatoes.herokuapp.com/
+https://rotten-potatoes-aayush-2.herokuapp.com/
